@@ -1,4 +1,5 @@
 {
+  "homepage": "https://Prikhodko17.github.io/React-Hooks",
   "name": "hooks-cursor",
   "version": "0.1.0",
   "private": true,
@@ -37,8 +38,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^4.0.0"
   }
 }
